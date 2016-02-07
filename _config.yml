@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2885304
+color:
+  saturation: 0.6087216
+  lightness: 0.8309438
+  brandStrength: 0
+  brandColors:
+    - '#1E170D'
+    - '#A3927F'
+    - '#806C55'
+    - '#FFFFF2'
+    - '#54AC52'
+  rhythmicContrast: 0.03405014
+name: MB Photography
