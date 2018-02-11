@@ -4,7 +4,10 @@ github: true
 description: >-
   An exploration of our world, an effort to strip away misconception and look at
   our environments in an unassuming and whimsical way.
-author: {}
+author:
+  name: Miller Bradley
+  url: millerbradley.com
+  email: millerbradleyis@gmail.com
 collections:
   - index:
       path: /
